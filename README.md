@@ -1,6 +1,6 @@
-# CS412 Homework 1 – Mina Altundiş
+# CS412 Homework 1 – Ulukan Keskin
 
-📓 **Jupyter Notebook Preview**
+**Jupyter Notebook Preview**
 
 You can view the notebook directly below:
 
@@ -8,4 +8,4 @@ You can view the notebook directly below:
   <img src="https://github.com/jupyter/notebook/blob/main/docs/resources/icon-512x512.png?raw=true" width="50"/>
 </a>
 
-[👉 Click here to view it fully rendered on GitHub](CS412-HW1-UlukanKeskin.ipynb)
+[Click here to view it fully rendered on GitHub](CS412-HW1-UlukanKeskin.ipynb)
